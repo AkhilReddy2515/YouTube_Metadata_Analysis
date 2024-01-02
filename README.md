@@ -8,7 +8,7 @@ This project target is to analyze the YouTube metadata(likes, comments etc) of c
 4. AWS
 5. Kafka
 6. Python
-7. Tableau
+7. Tableau.
 <br>
 # Tools
 1. VS code
