@@ -13,6 +13,5 @@ This project target is to analyze the YouTube metadata(likes, comments etc) of c
 # Tools
 1. VS code
 2. GIT
-
 <br>
 not finalized
